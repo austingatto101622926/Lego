@@ -9,6 +9,6 @@
         KeyDown="KeyPress_Handler"
         KeyUp="KeyUp_Handler">
     <Grid>
-        <TextBlock Name="Output" Width="80" Height="20" Text="??"/>
+        <TextBlock Name="Output" Width="80" Height="20" Text="?" TextAlignment="Center"/>
     </Grid>
 </Window>

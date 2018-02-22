@@ -21,7 +21,7 @@ namespace Custom
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
-    {
+    { 
         Brick brick;
         enum State { Foward, Back, Stopped, Unconnected };
         State state = State.Unconnected;
